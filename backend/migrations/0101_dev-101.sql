@@ -1,0 +1,2 @@
+-- DEV-101
+ALTER TABLE users ADD COLUMN col_101 text;
